@@ -1,14 +1,19 @@
 ---
-theme: dracula
+theme: gaia
 footer: Evgeny Noi
-header: Dracula
+header: 
 paginate: true
 marp: true
-
+backgroundColor: white
+color: black 
 ---
 
 <!-- _class: lead -->
 
-# first slide 
+# Tensor Data Recovery <!-- fit -->
+## from multiple aggregated views 
 
---- 
+Evgeny Noi
+
+---
+# second slide
